@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color:  black;
+}
+
+form {
+  margin-bottom: 15px;
+}
+
+h1 {
+  color:  red;
+}
+
+.js-search-results {
+  display: inline-block;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
